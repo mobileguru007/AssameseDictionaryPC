@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8B2C1A12-E9FF-4D1D-B93A-C808375A3F2A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Aadarxa_220Bilingual_220Dictionary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="My Project/Settings.Designer.vb">
+    <Files>
+      <File FileName="frmAboutUs.resx" Line="7" Column="5" />
+      <File FileName="My Project/Settings.Designer.vb" Line="69" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aadarxa Bilingual Dictionary" expanded="True" selected="True">
+            <Node name="Aadarxa Bilingual Dictionary" expanded="True">
+              <Node name="My Project" expanded="True" />
+              <Node name="frmAboutUs.vb" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

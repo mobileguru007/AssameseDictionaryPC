@@ -1,0 +1,483 @@
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_1\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_2\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+F:\Aadarxa Bilingual Dictionary 2015\Easy-Serching Assamese Dictionary_30\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+E:\MyPrograms\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+E:\Assamese Dictionariey Folder\Easy-Serching Assamese Dictionary_1N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+G:\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+E:\MyPrograms\Easy-Serching Assamese Dictionary_2N\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.manifest
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.application
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.pdb
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.xml
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe.manifest
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.application
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+E:\Dictionary 2016-2017\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\bin\x86\Debug\ABD.exe.config
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.exe
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xml
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.pdb
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGrammar.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAlphabets.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEditorial.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmAboutUs.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmContactUs.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmGuide.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmHelp.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmKey.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmLanguage.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPersonal.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPronounciations.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRegistration.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmRules.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmThanks.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWordSearch.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmEnlarge.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmFakara.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmMain.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmPicture.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmWrongRight.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.Resources.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.frmSpellcheck.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.SplashScreen.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.wordsearchextra.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\ABD.xNaming.resources
+E:\MainDataNew_2018\FreshCopy from Bhabben Bora\Easy-Serching Assamese Dictionary_2N - Copy\Easy-Searching Assamese Dictionary\obj\x86\Debug\Aadarxa Bilingual Dictionary.vbproj.GenerateResource.Cache

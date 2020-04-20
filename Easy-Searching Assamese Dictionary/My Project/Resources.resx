@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Btn_U-kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_U-kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Main Win_Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Main Win_Background.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label71" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label71.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wrg&amp;Coo_label copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wrg&amp;Coo_label copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label8 copy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label8 copy2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_4 copy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_4 copy2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="labe4 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\labe4 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fakara label_5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fakara label_5.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BackDown2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BackDown2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label7" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label7.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label4.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_3 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_3 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Ri-kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Ri-kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Picture_Header" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Picture_Header.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_Header copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\F_Header copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label5 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label5 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_Header copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_Header copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_12.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\xx.JPG;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Anuswar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Anuswar.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wordSearching_Label2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wordSearching_Label2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WrgHeader" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WrgHeader.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fakara Main copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fakara Main copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wordSearching_Label11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wordSearching_Label11.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_A--kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_A--kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label6.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Oi--kar copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Oi--kar copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WR.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_4 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_4 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Label-1 copy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Label-1 copy2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Urdha Comma copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Urdha Comma copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label51.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wordSearching_Label21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wordSearching_Label21.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_AA-kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_AA-kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_2 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_2 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label8 copy3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label8 copy3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphic3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphic3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Main Win_Background_4 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Main Win_Background_4 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WR1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WR1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="label_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\label_11.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_UU-kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_UU-kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_O--kar copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_O--kar copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MainWin_Background_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MainWin_Background_4.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BackDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BackDown.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_11.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label41" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label41.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="label_11 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\label_11 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_528_25 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_528_25 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_1 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_1 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Hyphen copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Hyphen copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fakara label_1 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fakara label_1 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label3 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label3 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label64.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Label-3 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Label-3 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_21.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label67" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label67.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_A--kar copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_A--kar copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_label1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\F_label1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_2 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_2 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Chandrabindu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Chandrabindu.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Label-1 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Label-1 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label4 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label4 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wdouble_word_label" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wdouble_word_label.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="label_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\label_6.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Anuswar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Anuswar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wHeader copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wHeader copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_1 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_1 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w eng_click the word" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w eng_click the word.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label66" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label66.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="F_extra label" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\F_extra label.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label31.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label8 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label8 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WordSearching" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WordSearching.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fakara Main copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fakara Main copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label72.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_31" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_31.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Yakaar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Yakaar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w _owel label" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w _owel label.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="label_11 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\label_11 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label62" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label62.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label52" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label52.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Ref copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Ref copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w_consonant label" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w_consonant label.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Oi--kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Oi--kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_ee-kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_ee-kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Label-2 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Label-2 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Bixarga copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Bixarga copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_label1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_label1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label1 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label1 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_22" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_22.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_O--kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_O--kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fakara label_1 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fakara label_1 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="WrgHeader1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\WrgHeader1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_3 copy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_3 copy2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_528_25 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_528_25 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Chandrabindu copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Chandrabindu copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_2 copy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_2 copy2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_528_25_Below copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_528_25_Below copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_i-kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_i-kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label63" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label63.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Title" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Title.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_3 copy3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_3 copy3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Ao--kar copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Ao--kar copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="New Label-1 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\New Label-1 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label4 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label4 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label5.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w_As_type theWord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w_As_type theWord.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fakara_label copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fakara_label copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label42" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label42.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fakara_Header" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fakara_Header.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Hasanta copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Hasanta copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label65" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label65.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_528_25_Below copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_528_25_Below copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wordSearching_Label1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wordSearching_Label1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Title1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Title1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Bixarga" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Bixarga.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_3 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_3 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_1 copy2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_1 copy2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NameWords" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NameWords.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Label_4 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Label_4 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Fakara label_51" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Fakara label_5.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="P_extra label61" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\P_extra label61.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label8 copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label8 copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_3.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wrg&amp;Coo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wrg&amp;Coo.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Btn_Ao--kar copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Btn_Ao--kar copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Image_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="w extra_label5 copy1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\w extra_label5 copy1.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wrg&amp;Coo_main copy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wrg&amp;Coo_main copy.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Graphic2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Graphic2.jpg;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

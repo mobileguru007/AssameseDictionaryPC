@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8B2C1A12-E9FF-4D1D-B93A-C808375A3F2A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ABD.My.MyApplication</StartupObject>
+    <RootNamespace>ABD</RootNamespace>
+    <AssemblyName>ABD</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ManifestCertificateThumbprint>C3C100F0E06A7B41A2E4712D09A2DF2DADB50B1F</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Aadarxa Bilingual Dictionary_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <SignAssembly>false</SignAssembly>
+    <PublishUrl>C:\Users\BABLU\Desktop\dicnew\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ABD.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningLevel>1</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ABD.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningLevel>1</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>ABD.xml</DocumentationFile>
+    <WarningLevel>1</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>ABD.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>1</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Management" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Convert.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frmGrammar.Designer.vb">
+      <DependentUpon>frmGrammar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrammar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlphabets.Designer.vb">
+      <DependentUpon>frmAlphabets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAlphabets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditorial.Designer.vb">
+      <DependentUpon>frmEditorial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditorial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAboutUs.Designer.vb">
+      <DependentUpon>frmAboutUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContactUs.Designer.vb">
+      <DependentUpon>frmContactUs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmContactUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGuide.Designer.vb">
+      <DependentUpon>frmGuide.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGuide.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp.Designer.vb">
+      <DependentUpon>frmHelp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKey.Designer.vb">
+      <DependentUpon>frmKey.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmKey.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLanguage.Designer.vb">
+      <DependentUpon>frmLanguage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLanguage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonal.Designer.vb">
+      <DependentUpon>frmPersonal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPronounciations.Designer.vb">
+      <DependentUpon>frmPronounciations.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPronounciations.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistration.Designer.vb">
+      <DependentUpon>frmRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRules.Designer.vb">
+      <DependentUpon>frmRules.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRules.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThanks.Designer.vb">
+      <DependentUpon>frmThanks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmThanks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWordSearch.Designer.vb">
+      <DependentUpon>frmWordSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWordSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEnlarge.Designer.vb">
+      <DependentUpon>frmEnlarge.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEnlarge.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Settings1.Designer.vb">
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="frmFakara.Designer.vb">
+      <DependentUpon>frmFakara.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmFakara.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPicture.Designer.vb">
+      <DependentUpon>frmPicture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPicture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWrongRight.Designer.vb">
+      <DependentUpon>frmWrongRight.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWrongRight.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="global.vb" />
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb" />
+    <Compile Include="Spellcheck.Designer.vb">
+      <DependentUpon>Spellcheck.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Spellcheck.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.vb">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wordsearchextra.Designer.vb">
+      <DependentUpon>wordsearchextra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="wordsearchextra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xNaming.Designer.vb">
+      <DependentUpon>xNaming.vb</DependentUpon>
+    </Compile>
+    <Compile Include="xNaming.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmGrammar.resx">
+      <DependentUpon>frmGrammar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlphabets.resx">
+      <DependentUpon>frmAlphabets.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditorial.resx">
+      <DependentUpon>frmEditorial.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAboutUs.resx">
+      <DependentUpon>frmAboutUs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContactUs.resx">
+      <DependentUpon>frmContactUs.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGuide.resx">
+      <DependentUpon>frmGuide.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp.resx">
+      <DependentUpon>frmHelp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKey.resx">
+      <DependentUpon>frmKey.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLanguage.resx">
+      <DependentUpon>frmLanguage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonal.resx">
+      <DependentUpon>frmPersonal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPronounciations.resx">
+      <DependentUpon>frmPronounciations.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistration.resx">
+      <DependentUpon>frmRegistration.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRules.resx">
+      <DependentUpon>frmRules.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThanks.resx">
+      <DependentUpon>frmThanks.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWordSearch.resx">
+      <DependentUpon>frmWordSearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEnlarge.resx">
+      <DependentUpon>frmEnlarge.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFakara.resx">
+      <DependentUpon>frmFakara.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPicture.resx">
+      <DependentUpon>frmPicture.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWrongRight.resx">
+      <DependentUpon>frmWrongRight.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Spellcheck.resx">
+      <DependentUpon>Spellcheck.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wordsearchextra.resx">
+      <DependentUpon>wordsearchextra.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="xNaming.resx">
+      <DependentUpon>xNaming.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings1.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\Btn_Chandrabindu.jpg" />
+    <None Include="Resources\Btn_Bixarga.jpg" />
+    <None Include="Resources\Btn_Anuswar.jpg" />
+    <None Include="Resources\Main Win_Background.jpg" />
+    <None Include="Resources\label_11.jpg" />
+    <None Include="Resources\wordSearching_Label21.jpg" />
+    <None Include="Resources\wordSearching_Label11.jpg" />
+    <None Include="Resources\wordSearching_Label2.jpg" />
+    <None Include="Resources\wordSearching_Label1.jpg" />
+    <None Include="Resources\Wrg&amp;Coo.jpg" />
+    <None Include="Resources\WrgHeader1.jpg" />
+    <None Include="Resources\WrgHeader.jpg" />
+    <None Include="Resources\WordSearching.jpg" />
+    <None Include="Resources\Fakara_Header.jpg" />
+    <None Include="Resources\MainWin_Background_4.jpg" />
+    <None Include="Resources\Picture_Header.jpg" />
+    <None Include="Resources\Main Win_Background_4 copy.jpg" />
+    <None Include="Resources\Btn_Chandrabindu copy.jpg" />
+    <None Include="Resources\Btn_Bixarga copy.jpg" />
+    <None Include="Resources\Btn_Anuswar copy.jpg" />
+    <None Include="Resources\Btn_Yakaar copy.jpg" />
+    <None Include="Resources\Btn_Hyphen copy.jpg" />
+    <None Include="Resources\Btn_Ref copy.jpg" />
+    <None Include="Resources\Btn_Ao--kar copy1.jpg" />
+    <None Include="Resources\Btn_O--kar copy1.jpg" />
+    <None Include="Resources\Btn_Oi--kar copy1.jpg" />
+    <None Include="Resources\Btn_A--kar copy1.jpg" />
+    <None Include="Resources\Btn_Hasanta copy.jpg" />
+    <None Include="Resources\Btn_Ri-kar copy.jpg" />
+    <None Include="Resources\Btn_UU-kar copy.jpg" />
+    <None Include="Resources\Btn_U-kar copy.jpg" />
+    <None Include="Resources\Btn_Ao--kar copy.jpg" />
+    <None Include="Resources\Btn_O--kar copy.jpg" />
+    <None Include="Resources\Btn_Oi--kar copy.jpg" />
+    <None Include="Resources\Btn_A--kar copy.jpg" />
+    <None Include="Resources\Btn_ee-kar copy.jpg" />
+    <None Include="Resources\Btn_i-kar copy.jpg" />
+    <None Include="Resources\Btn_AA-kar copy.jpg" />
+    <None Include="Resources\Btn_Urdha Comma copy.jpg" />
+    <None Include="Resources\New Label-3 copy.jpg" />
+    <None Include="Resources\Label_528_25_Below copy1.jpg" />
+    <None Include="Resources\Label_528_25 copy1.jpg" />
+    <None Include="Resources\Label_528_25 copy.jpg" />
+    <None Include="Resources\Label_528_25_Below copy.jpg" />
+    <None Include="Resources\New Label-1 copy2.jpg" />
+    <None Include="Resources\New Label-1 copy1.jpg" />
+    <None Include="Resources\New Label-2 copy.jpg" />
+    <None Include="Resources\New Label-1 copy.jpg" />
+    <None Include="Resources\WR1.jpg" />
+    <None Include="Resources\WR.jpg" />
+    <None Include="Resources\Wrg&amp;Coo_label copy.jpg" />
+    <None Include="Resources\P_extra label67.jpg" />
+    <None Include="Resources\label_11 copy1.jpg" />
+    <None Include="Resources\Fakara label_1 copy1.jpg" />
+    <None Include="Resources\Wrg&amp;Coo_main copy.jpg" />
+    <None Include="Resources\wHeader copy.jpg" />
+    <None Include="Resources\label_11 copy.jpg" />
+    <None Include="Resources\Fakara label_1 copy.jpg" />
+    <None Include="Resources\F_extra label.jpg" />
+    <None Include="Resources\F_label1.jpg" />
+    <None Include="Resources\F_Header copy.jpg" />
+    <None Include="Resources\P_extra label42.jpg" />
+    <None Include="Resources\P_extra label66.jpg" />
+    <None Include="Resources\P_extra label52.jpg" />
+    <None Include="Resources\Fakara label_5.jpg" />
+    <None Include="Resources\P_label1.jpg" />
+    <None Include="Resources\P_Header copy.jpg" />
+    <None Include="Resources\P_extra label41.jpg" />
+    <None Include="Resources\P_extra label65.jpg" />
+    <None Include="Resources\P_extra label51.jpg" />
+    <None Include="Resources\P_extra label64.jpg" />
+    <None Include="Resources\P_extra label4.jpg" />
+    <None Include="Resources\P_extra label72.jpg" />
+    <None Include="Resources\P_extra label71.jpg" />
+    <None Include="Resources\P_extra label31.jpg" />
+    <None Include="Resources\P_extra label63.jpg" />
+    <None Include="Resources\P_extra label7.jpg" />
+    <None Include="Resources\P_extra label5.jpg" />
+    <None Include="Resources\P_extra label62.jpg" />
+    <None Include="Resources\P_extra label3.jpg" />
+    <None Include="Resources\P_extra label61.jpg" />
+    <None Include="Resources\P_extra label6.jpg" />
+    <None Include="Resources\w extra_label4 copy1.jpg" />
+    <None Include="Resources\w extra_label8 copy3.jpg" />
+    <None Include="Resources\w extra_label8 copy2.jpg" />
+    <None Include="Resources\w extra_label3 copy.jpg" />
+    <None Include="Resources\xx.JPG" />
+    <None Include="Resources\w extra_label4 copy.jpg" />
+    <None Include="Resources\w extra_label8 copy1.jpg" />
+    <None Include="Resources\w extra_label5 copy1.jpg" />
+    <None Include="Resources\w extra_label1 copy.jpg" />
+    <None Include="Resources\w extra_label5 copy.jpg" />
+    <None Include="Resources\w extra_label8 copy.jpg" />
+    <None Include="Resources\wdouble_word_label.jpg" />
+    <None Include="Resources\w _owel label.jpg" />
+    <None Include="Resources\w_consonant label.jpg" />
+    <None Include="Resources\w_As_type theWord.jpg" />
+    <None Include="Resources\w eng_click the word.jpg" />
+    <None Include="Resources\labe4 copy.jpg" />
+    <None Include="Resources\label_6.jpg" />
+    <None Include="Resources\Fakara Main copy1.jpg" />
+    <None Include="Resources\Fakara Main copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NameWords.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_1 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_2 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_1 copy1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_2 copy1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_3 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_3 copy1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_4 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_3 copy2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_3 copy3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_4 copy1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_1 copy2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_2 copy2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Label_4 copy2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fakara_label copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image_22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Title.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Title1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackDown2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackDown.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graphic3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\Graphic2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

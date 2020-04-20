@@ -1,0 +1,29 @@
+F:/New_Dict/1 Dictionary With Non Encrypted Data/Easy-Serching Assamese Dictionary/Easy-Searching Assamese Dictionary/bin/Debug/ABD.exe.config
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/Aadarxa Bilingual Dictionary.vbprojAssemblyReference.cache
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmGrammar.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmAlphabets.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmEditorial.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmAboutUs.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmContactUs.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmGuide.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmHelp.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmKey.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmLanguage.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmPersonal.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmPronounciations.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmRegistration.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmRules.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmThanks.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmWordSearch.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmEnlarge.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmFakara.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmMain.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmPicture.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmWrongRight.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.Resources.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.frmSpellcheck.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.SplashScreen.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.wordsearchextra.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/ABD.xNaming.resources
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/Aadarxa Bilingual Dictionary.vbproj.GenerateResource.cache
+/Volumes/Data/Work/PC/Last updated dictionary PC version/Easy-Searching Assamese Dictionary/obj/Debug/Aadarxa Bilingual Dictionary.vbproj.CoreCompileInputs.cache

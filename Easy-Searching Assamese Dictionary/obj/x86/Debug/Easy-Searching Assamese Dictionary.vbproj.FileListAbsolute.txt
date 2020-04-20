@@ -1,0 +1,180 @@
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe.manifest
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.application
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.pdb
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.xml
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAlphabets.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEditorial.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAboutUs.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmContactUs.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGuide.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmHelp.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmKey.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmLanguage.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPersonal.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPronounciations.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRegistration.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRules.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmThanks.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWordSearch.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEnlarge.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmFakara.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmMain.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPicture.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWrongRight.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.Resources.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.SplashScreen.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\Easy-Searching Assamese Dictionary.vbproj.GenerateResource.Cache
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe.manifest
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.application
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xml
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.pdb
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xml
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.pdb
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe.manifest
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.application
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.pdb
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.xml
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGrammar.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAlphabets.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEditorial.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAboutUs.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmContactUs.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGuide.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmHelp.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmKey.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmLanguage.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPersonal.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPronounciations.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRegistration.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRules.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmThanks.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWordSearch.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEnlarge.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmFakara.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmMain.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPicture.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWrongRight.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.Resources.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmSpellcheck.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.SplashScreen.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xNaming.resources
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\Easy-Searching Assamese Dictionary.vbproj.GenerateResource.Cache
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe.manifest
+F:\New_Dict\10 July Dictionary Grammer\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.application
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xml
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.pdb
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe.manifest
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.application
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.pdb
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.xml
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGrammar.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAlphabets.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEditorial.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAboutUs.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmContactUs.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGuide.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmHelp.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmKey.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmLanguage.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPersonal.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPronounciations.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRegistration.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRules.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmThanks.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWordSearch.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEnlarge.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmFakara.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmMain.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPicture.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWrongRight.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.Resources.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmSpellcheck.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.SplashScreen.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xNaming.resources
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\Easy-Searching Assamese Dictionary.vbproj.GenerateResource.Cache
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe.manifest
+F:\New_Dict\Dictionary With Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.application
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xml
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.pdb
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe.manifest
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.application
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.pdb
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.xml
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGrammar.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAlphabets.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEditorial.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAboutUs.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmContactUs.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGuide.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmHelp.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmKey.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmLanguage.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPersonal.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPronounciations.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRegistration.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRules.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmThanks.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWordSearch.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEnlarge.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmFakara.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmMain.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPicture.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWrongRight.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.Resources.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmSpellcheck.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.SplashScreen.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xNaming.resources
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\Easy-Searching Assamese Dictionary.vbproj.GenerateResource.Cache
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe.manifest
+F:\New_Dict\Dictionary With Encrypted Data - Copy (4)\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.application
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xml
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.pdb
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe.manifest
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.application
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.exe
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.pdb
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\x86\Debug\ESAD.xml
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGrammar.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAlphabets.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEditorial.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmAboutUs.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmContactUs.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmGuide.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmHelp.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmKey.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmLanguage.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPersonal.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPronounciations.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRegistration.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmRules.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmThanks.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWordSearch.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmEnlarge.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmFakara.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmMain.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmPicture.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmWrongRight.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.Resources.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.frmSpellcheck.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.SplashScreen.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xNaming.resources
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\Easy-Searching Assamese Dictionary.vbproj.GenerateResource.Cache
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe.manifest
+F:\New_Dict\1 Dictionary With Non Encrypted Data\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.application
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.exe
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.xml
+F:\New_Dict\1 Dictionary With Non Encrypted Data - Copy\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\x86\Debug\ESAD.pdb

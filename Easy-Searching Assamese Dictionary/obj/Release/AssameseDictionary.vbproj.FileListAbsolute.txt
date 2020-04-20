@@ -1,0 +1,245 @@
+E:\AssameseDictionary 4DEC\AssameseDictionary\bin\Release\Newdata.mdb
+E:\AssameseDictionary 4DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.config
+E:\AssameseDictionary 4DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 4DEC\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 4DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 4DEC\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 4DEC\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmEnglish.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmSearch.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmShow.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmTest.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWelcome.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 4DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmImage.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\bin\Release\Newdata.mdb
+E:\AssameseDictionary 7DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.config
+E:\AssameseDictionary 7DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 7DEC\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 7DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 7DEC\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 7DEC\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmEnglish.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmImage.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmSearch.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmShow.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmTest.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWelcome.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 7DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\bin\Release\Newdata.mdb
+E:\AssameseDictionary 14DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.config
+E:\AssameseDictionary 14DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 14DEC\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 14DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 14DEC\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 14DEC\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmEnglish.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmSearch.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmShow.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWelcome.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 14DEC\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 20DEC\AssameseDictionary\bin\Release\Newdata.mdb
+E:\AssameseDictionary 20DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.config
+E:\AssameseDictionary 20DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 20DEC\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 20DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 20DEC\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 20DEC\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmShow.resources
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWelcome.resources
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\AssameseDictionary 20DEC\AssameseDictionary\obj\Release\AssameseDictionary.xfrmWordSearch.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 27DEC\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 27DEC\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 27DEC\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 27DEC\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmShow.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.frmWelcome.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.xfrmWordSearch.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 27DEC\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.zzfrmWrongRight.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.frmAboutUs.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.frmWrongRight.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.xxForm1.resources
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 3 JAN\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 3 feb\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 3 feb\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 3 feb\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 3 feb\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 3 feb\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmAboutUs.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmContactUs.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmReff.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.xfrmWordSearch.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmWrongRight.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 3 feb\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmAboutUs.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmContactUs.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmReff.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.xfrmWordSearch.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmWrongRight.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 12 feb\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 12 feb\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 12 feb\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 12 feb\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 12 feb\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 12 feb\AssameseDictionary\obj\Release\AssameseDictionary.frmAbout.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 3 Mar\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 3 Mar\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 3 Mar\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 3 Mar\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmAboutUs.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmContactUs.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmRefferences.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmWrongRight.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 3 Mar\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 16 Mar\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 16 Mar\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\AssameseDictionary 16 Mar\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\AssameseDictionary 16 Mar\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\AssameseDictionary 16 Mar\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmAboutUs.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmContactUs.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmRefferences.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.frmWrongRight.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\AssameseDictionary 16 Mar\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmAboutUs.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmContactUs.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmRefferences.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmWrongRight.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmSplash.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.vbproj.GenerateResource.Cache
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.application

@@ -1,0 +1,98 @@
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.application
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.exe
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.pdb
+E:\myDict\AssameseDictionary Final\AssameseDictionary\bin\Release\AssameseDictionary.xml
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\ResolveAssemblyReference.cache
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmAlphabets.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmEditorial.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmAboutUs.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmContactUs.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmGuide.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmHelp.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmLanguage.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmPersonal.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmPronounciations.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmRules.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmThanks.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.frmWrongRight.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.SplashScreen.resources
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\Easy-Searching Assamese Dictionary.vbproj.GenerateResource.Cache
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.application
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.exe
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.xml
+E:\myDict\AssameseDictionary Final\AssameseDictionary\obj\Release\AssameseDictionary.pdb
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\AssameseDictionary.exe.manifest
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\AssameseDictionary.application
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\AssameseDictionary.exe
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\AssameseDictionary.pdb
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\AssameseDictionary.xml
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ResolveAssemblyReference.cache
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmAlphabets.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmEditorial.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmAboutUs.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmContactUs.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmGuide.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmHelp.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmLanguage.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmPersonal.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmPronounciations.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmRules.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmThanks.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmWordSearch.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmEnlarge.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmFakara.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmMain.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmPicture.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmWrongRight.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.Resources.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.SplashScreen.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\Easy-Searching Assamese Dictionary.vbproj.GenerateResource.Cache
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.exe.manifest
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.application
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.exe
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.xml
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.pdb
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmKey.resources
+E:\myDict\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\AssameseDictionary.frmRegistration.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ResolveAssemblyReference.cache
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\Easy-Searching Assamese Dictionary.vbproj.GenerateResource.Cache
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmAlphabets.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmEditorial.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmAboutUs.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmContactUs.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmGuide.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmHelp.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmKey.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmLanguage.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmPersonal.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmPronounciations.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmRegistration.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmRules.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmThanks.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmWordSearch.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmEnlarge.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmFakara.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmMain.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmPicture.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.frmWrongRight.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.Resources.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.SplashScreen.resources
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\ESAD.exe.config
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\ESAD.exe.manifest
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\ESAD.application
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\ESAD.exe
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\ESAD.pdb
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\bin\Release\ESAD.xml
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.exe.manifest
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.application
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.exe
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.xml
+F:\Final Dictionay\Easy-Serching Assamese Dictionary\Easy-Searching Assamese Dictionary\obj\Release\ESAD.pdb
